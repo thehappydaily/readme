@@ -8,6 +8,8 @@ Check out below to find out what's going on. Keep up to date with us!
 
 Over $1.5 Million Raised for Clean Water Simply By **Teen** Girls While Embracing Their Love of Origami
 
+The 15 and 12 year old sisters run a nonprofit organization to help collect funding for clean water in developing countries. They do this by selling their paper origami creations. 
+
 # Header 1
 ## Header2
 ### Header 3
