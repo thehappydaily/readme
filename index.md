@@ -1,5 +1,7 @@
 ## Welcome to The Daily Hey
 
+Stay updated on all the latest news! We update you daily on what is going on around the world. However, we dont focus on the bad, we are here to spread the news you want to here. We focus on the good, not on the bad.
+
 You can use the [editor on GitHub](https://github.com/thehappydaily/readme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
