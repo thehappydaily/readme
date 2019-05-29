@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
 
 ### Jekyll Themes
 
