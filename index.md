@@ -17,20 +17,3 @@ Although, this may seem like a small collection, the girls have helped fund 170 
 
 Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
