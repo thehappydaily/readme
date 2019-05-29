@@ -27,6 +27,8 @@ Syntax highlighted code block
 
 Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
 
+![Image](https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thehappydaily/readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
