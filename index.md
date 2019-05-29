@@ -18,31 +18,7 @@ Although, this may seem like a small collection, the girls have helped fund 170 
 Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
 
 
-# Header 1
-## Header2
-### Header 3
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thehappydaily/readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Support or Contact
 
