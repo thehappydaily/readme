@@ -23,7 +23,7 @@ Syntax highlighted code block
 ```
 
 <p align="center">
-  <img width="460" height="300" src="https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg">
+  <src="https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg">
 </p>
 
 ![Image](https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg)
