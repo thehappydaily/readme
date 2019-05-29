@@ -4,9 +4,9 @@ Stay updated on all the latest news! We update you daily on what is going on aro
 
 Check out below to find out what's going on. Keep up to date with us!
 
-### Markdown
+### The Daily Hey - _Today_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Over $1.5 Million Raised for Clean Water Simply By **Teen** Girls While Embracing Their Love of Origami
 
 ```markdown
 Syntax highlighted code block
