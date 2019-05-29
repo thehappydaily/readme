@@ -23,7 +23,7 @@ Syntax highlighted code block
 ```
 
 <p align="center">
-  ![Image](https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg)
+  <![Image](https://i.pinimg.com/564x/bf/ca/85/bfca852d02572a97cf7d2ab6cdef94f4.jpg)>
 
 Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
 
