@@ -4,9 +4,9 @@ Stay updated on all the latest news! We update you daily on what is going on aro
 
 Check out below to find out what's going on. Keep up to date with us!
 
-### The Daily Hey - _Today_
+## The Daily Hey - _Today_
 
-Over $1.5 Million Raised for Clean Water Simply By **Teen** Girls While Embracing Their Love of Origami
+### Over $1.5 Million Raised for Clean Water Simply By **Teen** Girls While Embracing Their Love of Origami
 
 The 15 and 12 year old sisters run a nonprofit organization to help collect funding for clean water in developing countries. They do this by selling their paper origami creations. 
 
