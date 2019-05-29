@@ -11,7 +11,7 @@ Over $1.5 Million Raised for Clean Water Simply By **Teen** Girls While Embracin
 ```markdown
 Syntax highlighted code block
 
-[Image](https://www.pinterest.ca/pin/299982025152614355/)
+![Image](https://www.pinterest.ca/pin/299982025152614355/)
 
 
 - Bulleted
