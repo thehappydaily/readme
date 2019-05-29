@@ -10,6 +10,8 @@ Check out below to find out what's going on. Keep up to date with us!
 
 The 15 and 12 year old sisters run a nonprofit organization to help collect funding for clean water in developing countries. They do this by selling their paper origami creations. 
 
+Although, this may seem like a small collection, the girls have helped fund 170 clean water projects. They are even running origami workshops now to raise even more funding for their organization. So far they have been able to help over 17 countries. 
+
 ![Image](https://i.pinimg.com/564x/72/cc/8b/72cc8b03666b888d49191b45a41427c8.jpg) 
 
 
