@@ -1,4 +1,4 @@
-## Welcome to The Daily Hey
+# Welcome to The Daily Hey
 
 Stay updated on all the latest news! We update you daily on what is going on around the world. However, we dont focus on the bad, we are here to spread the news you want to here. We focus on the good, not on the bad.
 
