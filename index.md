@@ -10,9 +10,19 @@ Check out below to find out what's going on. Keep up to date with us!
 
 The 15 and 12 year old sisters run a nonprofit organization to help collect funding for clean water in developing countries. They do this by selling their paper origami creations. 
 
+![Image](https://i.pinimg.com/564x/72/cc/8b/72cc8b03666b888d49191b45a41427c8.jpg) 
+
+
+Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
+
+
 # Header 1
 ## Header2
 ### Header 3
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thehappydaily/readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ```markdown
 Syntax highlighted code block
@@ -31,16 +41,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-![Image](https://i.pinimg.com/564x/72/cc/8b/72cc8b03666b888d49191b45a41427c8.jpg) 
-
-Read full article [HERE](https://www.goodnewsnetwork.org/teen-girls-raise-1-5-million-for-clean-water-with-origami/).
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thehappydaily/readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
